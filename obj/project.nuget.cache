@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "InRe+EzJZvc=",
+  "dgSpecHash": "jTExu79oLDs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj",
+  "projectFilePath": "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\Bootloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morei\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
     "C:\\Users\\morei\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",

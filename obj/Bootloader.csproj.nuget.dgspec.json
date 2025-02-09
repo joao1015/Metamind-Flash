@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj": {}
+    "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\Bootloader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj": {
+    "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\Bootloader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj",
+        "projectUniqueName": "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\Bootloader.csproj",
         "projectName": "Bootloader",
-        "projectPath": "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj",
+        "projectPath": "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\Bootloader.csproj",
         "packagesPath": "C:\\Users\\morei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\obj\\",
+        "outputPath": "C:\\Users\\morei\\Desktop\\projeto\\Metamind-Flash\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
