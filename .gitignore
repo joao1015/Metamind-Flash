@@ -1,0 +1,6 @@
+Projetoc\#/Bootloader/bin/Release/net8.0-windows/win-x64/publish/
+# Ignorar diretórios de build
+bin/
+obj/
+Projetoc\#/Bootloader/bin/
+Projetoc\#/Bootloader/obj/
