@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bootloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8383ce651b94788598bb8f1f773d2a1b80122283")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fa56a07bcd2b8ec01984cc7d998f451c284713")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bootloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bootloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
