@@ -1,1 +1,3 @@
-bin/
+# Ignorar pastas bin e obj em qualquer nível
+**/bin/
+**/obj/
