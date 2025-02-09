@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "InRe+EzJZvc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\morei\\Desktop\\MitFlasher\\Metamind-Flasher\\Projetoc#\\Metamind-Flash\\Bootloader\\Bootloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\morei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

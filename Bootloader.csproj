@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Gera um executável WinForms -->
+    <OutputType>WinExe</OutputType>
+
+    <!-- Alvo: .NET 8.0 para Windows -->
+    <TargetFramework>net8.0-windows</TargetFramework>
+
+    <!-- Habilita as APIs de Windows Forms -->
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Para acessar System.IO.Ports -->
+    <PackageReference Include="System.IO.Ports" Version="8.0.0" />
+  </ItemGroup>
+
+  <!-- Caso você tenha duas imagens/resources (board.jpg e firmware.hex),
+       e elas fiquem na subpasta Resources/ do mesmo nível que este .csproj -->
+  <ItemGroup>
+    <!-- board.jpg -->
+    <None Include="Resources\board.jpg">
+      <!-- Garante que será copiado para bin\... \Resources\board.jpg -->
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <!-- firmware.hex -->
+    <None Include="Resources\firmware.hex">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

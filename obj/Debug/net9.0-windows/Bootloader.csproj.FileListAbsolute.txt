@@ -1,0 +1,6 @@
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.csproj.AssemblyReference.cache
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.AssemblyInfoInputs.cache
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.AssemblyInfo.cs
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.csproj.CoreCompileInputs.cache
+C:\Users\morei\Desktop\MitFlasher\Metamind-Flasher\Projetoc#\Bootloader\obj\Debug\net9.0-windows\Bootloader.sourcelink.json
